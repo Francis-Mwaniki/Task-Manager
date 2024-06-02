@@ -1,4 +1,11 @@
 
+<p align="center">
+  <img src="./public/appa.png" alt="Home Page" width="600">
+</p>
+
+<p align="center" >
+  <img src="./public/appb.png" alt="Login Page" width="600">
+</p>
 
 ### **Instructions to Run the App:**
 
