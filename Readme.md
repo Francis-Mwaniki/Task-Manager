@@ -29,4 +29,3 @@
 
 This simple console application allows you to manage tasks by adding, viewing, and marking them as completed.
 
-Would you like to add more features or make any modifications? Let's make this app even better! 🧑‍💻🔓
